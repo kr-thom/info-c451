@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bookings>
+    <booking>
+        <confirmation_number>EP1AHZ80YS</confirmation_number>
+        <full_name>Richard Smith</full_name>
+        <id_number>9274950382</id_number>
+        <phone_number>5551234567</phone_number>
+        <email>rich@gmail.com</email>
+        <number_of_guests>2</number_of_guests>
+        <room_type>King Bed</room_type>
+        <room_number>233</room_number>
+        <check_in_date>2025-04-12</check_in_date>
+        <check_out_date>2025-04-14</check_out_date>
+        <checked_out>false</checked_out>
+    </booking>
+</bookings>
