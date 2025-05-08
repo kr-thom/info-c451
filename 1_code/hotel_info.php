@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--Kristen Thomas
 	System Implementation
-	Midterm Project
+	Final Project
 	SPRING 2025-->
 <html>
 <head>
