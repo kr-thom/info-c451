@@ -35,5 +35,5 @@ function test_checkin($confirmation, $id_number) {
     }
 }
 
-test_checkin("EFGAKJ11YS", "9999999999");
+test_checkin("EP1AHZ80YS", "9274950382");
 ?>
