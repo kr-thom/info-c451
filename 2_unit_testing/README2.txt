@@ -1,5 +1,7 @@
 Files:
-- test_bookings.php : Tests booking lookup functionality using sample data.
+- test_checkin.php          : Tests db connection and if a user can successfully check in
+- test_checkout.php         : Tests if a guest can check out correctly
+- test_find_reservation.php : Verifies guest lookup by confirmation number and personal details
 
 How to Run:
     1. Make sure MySQL is running and the `bookings` database is set up.
