@@ -1,6 +1,9 @@
 Setup Instructions
   1. Install Requirements
-      XAMPP or similar (includes Apache + MySQL) & Web Browser
+      1. XAMPP or similar (includes Apache + MySQL)
+      2. Notepad++ or other text and source code editor
+      3. Web Browser
+      
 
   2. Database Setup
       1. Start Apache and MySQL in XAMPP.
