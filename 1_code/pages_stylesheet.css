@@ -1,0 +1,145 @@
+/*Pages Style Sheet*/
+body{
+	font-family: Arial;
+}
+
+a {
+	flex: 1;
+	text-decoration: none;
+	outline-color: transparent;
+	text-align: center;
+	line-height: 3;
+	color: black;
+	margin: 20px;
+	padding: 10px 20px;
+	background-color: #234687;
+	color: white;
+	text-decoration: none;
+	border-radius: 10px;
+}
+
+hr{
+	height:10px;
+	background-color: #5b94bd;
+	margin:0px;
+}
+
+a:link, a:visited, a:focus {
+	background: #234687;
+	color: white;
+}
+
+a:hover{
+	transition: background-color 0.3s ease;
+	background: #4c77c7;
+	color: white;
+}
+
+a:active{
+	background: lightblue;
+	color: white;
+}
+		
+p{
+	font-family:Arial;
+	font-size:14px;
+	color:#1c5178;
+	margin-top: 70px;
+} 
+
+h2{
+	font-family:Arial;
+	margin-top: 25px;
+}
+		
+h3{
+	text-align:center;
+	margin-top: 50px;
+}
+
+h4 {
+	text-align:center;
+	margin-top: 50px;
+}
+
+p{
+	margin: 2px 0px;
+}
+
+#titleSection{
+	height:80px; 
+	width:60px; 
+	float:left;
+	border-bottom: thick double #32a1ce;
+}
+
+#titleSection2{
+	height:80px; 
+	width:840px; 
+	float:left;
+	border-bottom: thick double #32a1ce;
+}
+
+#checkIn{
+	background-color: white;
+	height:550px;
+	width:900px;
+	float:left;
+}
+
+#hotelInfo{
+	background-color: white;
+	height:550px;
+	width:900px;
+	float:left;
+}
+
+input[type="submit"] {
+    background-color: #234687;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+table{
+	font-family:Arial;
+	font-size:14px;
+	color:#1c5178;
+	margin-top: 70px;
+}
+
+input[type="submit"]:hover {
+    background-color: #4c77c7;
+}
+
+#reservationOptions{
+	background-color: white;
+	height:550px;
+	width:900px;
+	float:left;
+}
+
+#management{
+	background-color: white;
+	height:550px;
+	width:900px;
+	float:left;
+}
+
+#footer1{
+	border-top: thick double #32a1ce; 
+	height:75px; 
+	width:670px; 
+	float:left;
+}
+
+#footer2{
+	border-top: thick double #32a1ce; 
+	height:75px; 
+	width:230px; 
+	float:left;
+}

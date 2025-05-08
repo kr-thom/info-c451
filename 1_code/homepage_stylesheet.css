@@ -1,0 +1,74 @@
+/* Main page Style sheet */
+	
+body, html{
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.container {
+	display: flex;
+	gap: 0.625%;
+}
+
+a {
+	flex: 1;
+	text-decoration: none;
+	outline-color: transparent;
+	text-align: center;
+	line-height: 3;
+	color: black;
+	margin: 20px;
+	padding: 60px 20px;
+	background-color: #234687;
+	color: white;
+	text-decoration: none;
+	border-radius: 20px;
+	transition: background-color 0.3s ease;
+}
+
+a:link, a:visited, a:focus 
+{
+	background: #234687;
+	color: white;
+}
+
+a:hover{
+	background: #4c77c7;
+	color: white;
+}
+
+a:active{
+	background: lightblue;
+	color: white;
+}
+		
+#titleSection{
+	height:110px; 
+	width:900px; 
+	float:left;
+	border-bottom: thick double #32a1ce;
+}
+		
+#mainMenu{
+	height:550px;
+	width:900px;
+	float:left;
+}
+		
+h3{
+	text-align:center;
+	color: white;
+}
+		
+#footer1{
+	border-top: thick double #32a1ce; 
+	height:75px; 
+	width:900px; 
+	float:left;
+	text-align:center;
+}
+		
+img{
+	margin: auto;
+	display: block;
+}
